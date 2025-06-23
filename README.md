@@ -1,4 +1,4 @@
-# Contact-List--Postman-API-Testing-Project
+Contact-List--Postman-API-Testing-Project
 
 
 This project includes the process of writing, running, and automating API tests with Postman. 
